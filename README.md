@@ -1,1 +1,1 @@
-# notion-date-widget1
+# notion-date-widget
